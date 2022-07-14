@@ -47,3 +47,7 @@ PRs welcome for more accurate and exhaustive data.
 ## License
 
 MIT, see [LICENSE.md](http://github.com/mattdesl/paper-colors/blob/master/LICENSE.md) for details.
+
+## FF2Clear
+
+For use FF2Clear please choose paper color with [ColorEffectReplacer](https://github.com/cheznewa/MyGist/blob/master/coloreffectreplacer/coloreffectreplacerfarbfeld.py) then use [FF2Clear](https://github.com/cheznewa/MyGist/blob/master/ff2clear.py), as farbeld during the process.

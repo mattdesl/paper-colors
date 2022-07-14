@@ -2,61 +2,75 @@
   {
     "name": "Pink",
     "hex": "#f2c5d2",
-    "brand": "Springhill Opaque"
+    "brand": "Springhill Opaque",
+    "ff2clear": "rc"
+
   },
   {
     "name": "Canary",
     "hex": "#e5bb57",
-    "brand": "Springhill Opaque"
+    "brand": "Springhill Opaque",
+    "ff2clear": "rc"
   },
   {
     "name": "Orchid",
     "hex": "#9c96cd",
-    "brand": "Springhill Opaque"
+    "brand": "Springhill Opaque",
+    "ff2clear": "rc"
   },
+
   {
     "name": "Pastel Green",
     "hex": "#76b995",
-    "brand": "Springhill Opaque"
+    "brand": "Springhill Opaque",
+    "ff2clear": "by"
   },
   {
     "name": "Pastel Blue",
     "hex": "#70a7c5",
-    "brand": "Springhill Opaque"
+    "brand": "Springhill Opaque",
+    "ff2clear": "cr"
   },
   {
     "name": "Ivory",
     "hex": "#f8e6d1",
-    "brand": "Springhill Opaque"
+    "brand": "Springhill Opaque",
+    "ff2clear": "yb"
   },
   {
     "name": "Tan",
     "hex": "#dfbcab",
-    "brand": "Springhill Opaque"
+    "brand": "Springhill Opaque",
+    "ff2clear": "rc"
   },
   {
     "name": "Warm White",
     "hex": "#f1e7e1",
-    "brand": "Mohawk VIA Vellum"
+    "brand": "Mohawk VIA Vellum",
+    "ff2clear": "yb"
   },
   {
     "name": "Bright White",
     "hex": "#efedf6",
-    "brand": "Mohawk VIA Vellum"
+    "brand": "Mohawk VIA Vellum",
+    "ff2clear": "rc"
   },
   {
     "name": "White",
     "hex": "#e1dce9",
-    "brand": "Rolland Enviro Copy"
+    "brand": "Rolland Enviro Copy",
+    "ff2clear": "rc"
   },
   {
     "name": "Gray",
     "hex": "#cdcad5",
-    "brand": "Earthchoice"
+    "brand": "Earthchoice",
+    "ff2clear": "rc"
   },
   {
     "name": "Bright White",
     "hex": "#f2f2f2",
-    "brand": "Hahnemühle Photo Rag"
+    "brand": "Hahnemühle Photo Rag",
+    "ff2clear": "rc"
   }
 ]
