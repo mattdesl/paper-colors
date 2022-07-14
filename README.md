@@ -50,4 +50,4 @@ MIT, see [LICENSE.md](http://github.com/mattdesl/paper-colors/blob/master/LICENS
 
 ## FF2Clear
 
-For use FF2Clear please choose paper color with [ColorEffectReplacer](https://github.com/cheznewa/MyGist/blob/master/coloreffectreplacer/coloreffectreplacerfarbfeld.py) then use [FF2Clear](https://github.com/cheznewa/MyGist/blob/master/ff2clear.py), as farbeld during the process.
+For use FF2Clear please choose paper color with [ColorEffectReplacer](https://github.com/cheznewa/MyGist/blob/master/coloreffectreplacer/coloreffectreplacerfarbfeld.py) then use [FF2Clear](https://github.com/cheznewa/MyGist/blob/master/ff2clear.py), as [Farbfeld](https://tools.suckless.org/farbfeld/) during the process.
